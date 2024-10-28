@@ -1,5 +1,5 @@
 ---
 - hosts: localhost
-  remote_user: centos2
+  remote_user: root
   roles:
     - curl
